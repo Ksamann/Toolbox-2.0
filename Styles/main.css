@@ -1,3 +1,50 @@
-#Content{
+#Menu{
+   
+}
+
+#MainMenu{
     border: 1px solid #000000;
+    background: #3f4e6d;
+}
+
+#SubMenu{
+    background: linear-gradient(#1e2538,#3a4769);
+    background-image: url("Img/HeaderBackground.jpg");
+    border: 1px solid #21293e;
+}
+
+
+.mainBtn{
+    background: linear-gradient(#495e89,#7d8cb3);
+    background-image: url("Img/ButtonBackground.jpg");
+    border: 1px solid #000000;
+    border-radius: 4px;
+    height: 40px;
+    color: #ececec;
+    font-weight: bold;
+    margin: 1px;
+}
+
+.mainBtn:hover{
+    background: #7d8cb3;
+    background-image: url("Img/ButtonBackgroundHover.jpg");
+    color: #ffffff;
+}
+
+.mainBtn.active{
+    background: #c8a64f;
+    background-image: url("Img/ButtonBackgroundActive.jpg");
+}
+
+.subBtn{
+    background: #324162;
+    border-radius: 4px;
+    border: 1px solid #000000;
+    color: #ececec;
+    margin: 2px;
+}
+
+.subBtn.active{
+    background: #ffffff;
+    color: #000000;
 }

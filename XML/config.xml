@@ -1,0 +1,72 @@
+<xml>
+
+    <settings>
+        <version>2.1</version>
+        <window_width>500</window_width>
+        <styleSheet>main.css</styleSheet>
+
+    </settings>
+
+    <main_menu>
+        <sub_menu name="Telefonlister" icon="none">
+            <page name="Vip" xml_source="Phonelist.xml"/>
+            <page name="Signal" xml_source="PhonelistSignal.xml"/>
+            <page name="Elkraft" xml_source="PhonelistElkraft.xml"/>
+            <page name="Baneavdelingen" xml_source="PhonelistBane.xml"/>
+        </sub_menu>
+
+        <sub_menu name="Beredskap" icon="none">
+            <page name="Tiltakskort" xml_source="ContingencyCards.xml"/>
+            <page name="Varslingsliste" xml_source="ContingencyCallList.xml"/>
+        </sub_menu>
+
+        <sub_menu name="MX 3000" icon="none">
+            <page name="Feilkoder" xml_source="Mx3000Faults.xml"/>
+            <page name="Rutiner" xml_source="Mx3000Routines.xml"/>
+            <page name="Sikringer" xml_source="Mx3000Fuses.xml"/>
+        </sub_menu>
+
+        <sub_menu name="Passeringstider" icon="none">
+            <page name="Linje 1" xml_source="TripsL1.xml"/>
+            <page name="Linje 2" xml_source="TripsL2.xml"/>
+            <page name="Linje 3" xml_source="TripsL3.xml"/>
+            <page name="Linje 4" xml_source="TripsL4.xml"/>
+            <page name="Linje 5" xml_source="TripsL5.xml"/>
+        </sub_menu>
+
+        <sub_menu name="Frakoblinger" icon="none">
+            <page name="Linje 1" xml_source="CouplingL1.xml"/>
+            <page name="Linje 2" xml_source="CouplingL2.xml"/>
+            <page name="Linje 3" xml_source="CouplingL3.xml"/>
+            <page name="Linje 4" xml_source="CouplingL4.xml"/>
+            <page name="Linje 5" xml_source="CouplingL5.xml"/>
+        </sub_menu>
+
+        <sub_menu name="Adresser" icon="none">
+            <page name="Stasjoner" xml_source="AddresStations.xml"/>
+            <page name="Nødutganger" xml_source="AddresEmergencyExit.xml"/>
+            <page name="Lokaler" xml_source="AddresRealEstate.xml"/>
+        </sub_menu>
+
+        <sub_menu name="Info" icon="none">
+            <page name="Drift" xml_source="InfoOperations.xml"/>
+            <page name="IKT" xml_source="InfoIT.xml"/>
+        </sub_menu>
+
+    <sub_menu name="Notater" icon="none">
+            <page name="Notater" xml_source="Notes.xml"/>
+            <page name="Påminnelser" xml_source="Prompts.xml"/>
+        </sub_menu>
+
+
+    </main_menu>
+
+
+
+
+
+
+
+
+
+</xml>
