@@ -2,28 +2,40 @@ console.log("toolbox.js connected");
 
 function readFile(fileName, callbackFunc, outputXml) {
     var req;
-    if (window.XMLHttpRequest) {
+    var IE = false;
+    if (!window.XMLHttpRequest) {
         console.log("Modern xmlhttp detected...");
         req = new XMLHttpRequest();
     } else {
         console.log("ActiveX detected");
         req = new ActiveXObject("Microsoft.XMLHTTP");
+        IE = true;
     }
     req.onreadystatechange = function () {
-        if (req.readyState == 4 && req.status == 200) {
+        if (req.readyState == 4) {
             console.log("File successfully read...");
             if (req.responseXML == "") {
                 console.log("File " + fileName + " is empty");
             }
             else {
                 if (outputXml) {
-                    callbackFunc(req.responseXML);
+                    if(IE){
+                        var xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+                        xmlDoc.async ="false";
+                        xmlDoc.loadXML(req.responseText);
+                        callbackFunc(xmlDoc);
+                    }
+                    else{
+                        callbackFunc(req.responseXML);
+                    }
+
+                    
                 } else {
                     callbackFunc(req.responseText);
                 }
             }
         } else {
-            console.log("readystate: " + req.readyState + " Satus: " + req.status);
+            //console.log("readystate: " + req.readyState + " Satus: " + req.status);
         }
     };
     req.open("GET", fileName, true);
