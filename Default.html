@@ -11,11 +11,13 @@
 <body>
     <div id="Menu"></div>
     <div id ="Content">
-        <p>Test</p>
+        
     </div>
 </body>
 <script>
     var Menu = document.getElementById("Menu");
+    var Cont = document.getElementById("Content");
+    Cont.innerHTML = browserVersion();
     readFile("XML/config.xml", setConfig, true);
 </script>
 </html>

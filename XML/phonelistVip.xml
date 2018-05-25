@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<person>
+		<name>Aasen, Tor Ole</name>
+		<phone>41 69 83 38</phone>
+	</person>
+	<person>
+		<name>Afdal, Brynjulv</name>
+		<phone>95891236</phone>
+	</person>
+	<person>
+		<name>AMK Nød</name>
+		<phone>113</phone>
+	</person>
+	<person>
+		<name>Asperud, Cato</name>
+		<phone>90856044</phone>
+	</person>
+	<person>
+		<name>Avløs driftsleder</name>
+		<phone>41654041</phone>
+	</person>
+	<person>
+		<name>Avløs oppmøterom</name>
+		<phone>22084940</phone>
+	</person>
+	<person>
+		<name>Avløs produksjonsleder</name>
+		<phone>90814838</phone>
+	</person>
+	<person>
+		<name>Avløs rang Kåre</name>
+		<phone>99234939</phone>
+	</person>
+	<person>
+		<name>Avløs rang Thor Otto</name>
+		<phone>90781688</phone>
+	</person>
+	<person>
+		<name>Avløs Ulf Larsen</name>
+		<phone>95832757</phone>
+	</person>
+	<person>
+		<name>Avløs verksted</name>
+		<phone>48004988</phone>
+	</person>
+	<person>
+		<name>Baneavd vakt 1</name>
+		<phone>90786598</phone>
+	</person>
+	<person>
+		<name>Baneavd vakt 2</name>
+		<phone>90786552</phone>
+	</person>
+	<person>
+		<name>Bemanningsleder 1 Prioritert</name>
+		<phone>85178</phone>
+	</person>
+	<person>
+		<name>Bemanningsleder 2</name>
+		<phone>85181</phone>
+	</person>
+	<person>
+		<name>Bemanningsleder 3</name>
+		<phone>85180</phone>
+	</person>
+	<person>
+		<name>Bemanningsleder ved avvik</name>
+		<phone>97559523</phone>
+	</person>
+	<person>
+		<name>Bjørn, Torkil</name>
+		<phone>97086777</phone>
+	</person>
+	<person>
+		<name>Brann Bærum</name>
+		<phone>66758641</phone>
+	</person>
+	<person>
+		<name>Brann NØD</name>
+		<phone>110</phone>
+	</person>
+	<person>
+		<name>Brann Oslo/Akershus</name>
+		<phone>67128800</phone>
+	</person>
+	<person>
+		<name>Brann Oslo/Akershus PRIORITERT</name>
+		<phone>67128888</phone>
+	</person>
+	<person>
+		<name>Bussbestilling (Hverdager mellom kl: 06-09 og 15-18)</name>
+		<phone>46409300</phone>
+	</person>
+	<person>
+		<name>Bussbestilling Unibuss(Alnabru) 1.pri</name>
+		<phone>22640514</phone>
+	</person>
+	
+	<person>
+		<name>Bussbestilling Unibuss (Rosenholm) 2.pri</name>
+		<phone>48253685</phone>
+	</person>
+	<person>
+		<name>Bussbestilling Norgesbuss (Klemetsrud) 3.pri</name>
+		<phone>40001166</phone>
+	</person>
+	
+	<person>
+		<name>Bygningsavdeling vakt</name>
+		<phone>41464670</phone>
+	</person>
+	<person>
+		<name>Chu, Nina</name>
+		<phone>99162956</phone>
+	</person>
+	<person>
+		<name>Clear Channel Reklamemonter</name>
+		<phone>95 25 91 71</phone>
+	</person>
+	<person>
+		<name>Dao, Ryen EL-verksted (Nød-radio)</name>
+		<phone>94789057</phone>
+	</person>
+	<person>
+		<name>Durnak, Kim</name>
+		<phone>90599297</phone>
+	</person>
+	<person>
+		<name>Ebir drift vaktsentral</name>
+		<phone>40552500</phone>
+	</person>
+	<person>
+		<name>Elkraft vakt 1</name>
+		<phone>90786384</phone>
+	</person>
+	<person>
+		<name>Elkraft vakt 2</name>
+		<phone>48223920</phone>
+	</person>
+	<person>
+		<name>Ellingsen, Britt</name>
+		<phone>99266823</phone>
+	</person>
+	<person>
+		<name>Fagleder 256</name>
+		<phone>90752781</phone>
+	</person>
+	<person>
+		<name>Fagleder 262</name>
+		<phone>90752782</phone>
+	</person>
+	<person>
+		<name>Haadem, Bjørn</name>
+		<phone>90866059</phone>
+	</person>
+	<person>
+		<name>Hafslund strøm 1</name>
+		<phone>81530400</phone>
+	</person>
+	<person>
+		<name>Hafslund strøm 2</name>
+		<phone>22130901</phone>
+	</person>
+	<person>
+		<name>Havarikommisjonen SHT</name>
+		<phone>63896330</phone>
+	</person>
+	<person>
+		<name>Hittegods Nat (0800-1800)</name>
+		<phone>22085361</phone>
+	</person>
+	<person>
+		<name>Hittegods Nat (0800-1800) Mobil</name>
+		<phone>95018162</phone>
+	</person>
+	<person>
+		<name>Hjelleset, Tor Olav</name>
+		<phone>95043969</phone>
+	</person>
+	<person>
+		<name>Hjelpemiddelsentralen</name>
+		<phone>45216220</phone>
+	</person>
+	<person>
+		<name>Høie, Magne</name>
+		<phone>91672690</phone>
+	</person>
+	<person>
+		<name>IKT Servicedesk (hele døgnet)</name>
+		<phone>22084760</phone>
+	</person>
+	<person>
+		<name>IKT Servicedesk VIP</name>
+		<phone>91322252</phone>
+	</person>
+	<person>
+		<name>Infovakt Ruter (IOSS)</name>
+		<phone>46409300</phone>
+	</person>
+	<person>
+		<name>Ingeniørvakt</name>
+		<phone>90855576</phone>
+	</person>
+
+	<person>
+		<name>Innetjenesten bill kontroll</name>
+		<phone>97750200</phone>
+	</person>
+	<person>
+		<name>ISS Renhold vakt</name>
+		<phone>40013501</phone>
+	</person>
+	<person>
+		<name>ISS Strøing og rydding</name>
+		<phone>0 23 17</phone>
+	</person>
+	<person>
+		<name>Renhold utestasjoner CONLUO</name>
+		<phone>40011131</phone>
+	</person>
+	<person>
+		<name>Johansson, Erik Werner</name>
+		<phone>90752804</phone>
+	</person>
+	<person>
+		<name>Jovin, Thomas Henry </name>
+		<phone>22057054</phone>
+	</person>
+	<person>
+		<name>Jovin, Thomas Henry (mobil)</name>
+		<phone>97797054</phone>
+	</person>
+	<person>
+		<name>Larsen AS, Roald  (knuste glassruter)</name>
+		<phone>22467479</phone>
+	</person>
+	<person>
+		<name>Mack, Richard</name>
+		<phone>90852907</phone>
+	</person>
+	<person>
+		<name>Majorstuen pikett 1</name>
+		<phone>22085415</phone>
+	</person>
+	<person>
+		<name>Majorstuen pikett 2</name>
+		<phone>22085345</phone>
+	</person>
+	<person>
+		<name>Majorstuen Rang studio</name>
+		<phone>22085336</phone>
+	</person>
+	<person>
+		<name>Muhammad, Arif</name>
+		<phone>90545309</phone>
+	</person>
+	<person>
+		<name>Myrvoll, strøing Maj og Ryen tomta</name>
+		<phone>95155943</phone>
+	</person>
+	<person>
+		<name>Nerli, Chris</name>
+		<phone>93412148</phone>
+	</person>
+	<person>
+		<name>Norwegian Vending</name>
+		<phone>90763804</phone>
+	</person>
+	<person>
+		<name>NRK Trafikk</name>
+		<phone>73881503</phone>
+	</person>
+	<person>
+		<name>NRK Trafikk ved stans</name>
+		<phone>73881500</phone>
+	</person>
+	<person>
+		<name>NSB Informasjon</name>
+		<phone>23150800</phone>
+	</person>
+	<person>
+		<name>NSB JBV Grefsen TXP</name>
+		<phone>22457479</phone>
+	</person>
+	<person>
+		<name>NSB JBV Nød togleder</name>
+		<phone>23152400</phone>
+	</person>
+	<person>
+		<name>NSB JBV Oslo S stasjonskontoret</name>
+		<phone>22457477</phone>
+	</person>
+	<person>
+		<name>NSB TL Jernbaneverket Oslo S</name>
+		<phone>22457988</phone>
+	</person>
+	<person>
+		<name>Oslo Taxi Etter kl. 23 (spesialtransport)</name>
+		<phone>0 23 23</phone>
+	</person>
+	<person>
+		<name>Oslo Taxi kl. 07-23 (Bestille spesialtransport)</name>
+		<phone>22388062</phone>
+	</person>
+	<person>
+		<name>Plassen, Bjarne</name>
+		<phone>95492379</phone>
+	</person>
+	<person>
+		<name>Politi </name>
+		<phone>02800</phone>
+	</person>
+	<person>
+		<name>Politi Bærum</name>
+		<phone>67576858</phone>
+	</person>
+	<person>
+		<name>Politi NØD</name>
+		<phone>112</phone>
+	</person>
+	<person>
+		<name>Politi Oslo operasjonssentral</name>
+		<phone>24172031</phone>
+	</person>
+	<person>
+		<name>Politi Oslo operasjonssentral NØD</name>
+		<phone>24172040</phone>
+	</person>
+	<person>
+		<name>Politi Stovner</name>
+		<phone>22668836</phone>
+	</person>
+	<person>
+		<name>Politi utepatruljen Grønland</name>
+		<phone>47457927</phone>
+	</person>
+	<person>
+		<name>Resepsjonen Ø9</name>
+		<phone>22084705</phone>
+	</person>
+	<person>
+		<name>Rosings (service port  sør på Maj)</name>
+		<phone>67064500</phone>
+	</person>
+	<person>
+		<name>Ryen driftsleder</name>
+		<phone>22085713</phone>
+	</person>
+	<person>
+		<name>Ryen pikett</name>
+		<phone>84550</phone>
+	</person>
+	<person>
+		<name>Ryen portvakt</name>
+		<phone>84556</phone>
+	</person>
+	<person>
+		<name>Ryen stillverk</name>
+		<phone>84555</phone>
+	</person>
+	<person>
+		<name>Ryen stillverk direkte</name>
+		<phone>22077004</phone>
+	</person>
+	<person>
+		<name>Ryen stillverk mobil</name>
+		<phone>91362771</phone>
+	</person>
+	<person>
+		<name>Ryen verksted helg</name>
+		<phone>22085759</phone>
+	</person>
+	<person>
+		<name>Røa Gjerdefabrikk (service port nord på Maj) 1</name>
+		<phone>90640074</phone>
+	</person>
+	<person>
+		<name>Røa Gjerdefabrikk (service port nord på Maj) 2</name>
+		<phone>90727147</phone>
+	</person>
+	<person>
+		<name>Røer, Geir</name>
+		<phone>47454343</phone>
+	</person>
+	<person>
+		<name>Sandbæk, Jan Erik</name>
+		<phone>97659937</phone>
+	</person>
+	<person>
+		<name>Seksjonsleder  Therese Ouveren </name>
+		<phone>94797091</phone>
+	</person>
+	<person>
+		<name>Seksjonsleder  Yngvild Eide </name>
+		<phone>91521353</phone>
+	</person>
+	<person>
+		<name>Seksjonsleder 3 Akram Fraz </name>
+		<phone>91792193</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Jer plass 1</name>
+		<phone>22055103</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Jer plass 2</name>
+		<phone>22085104</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Maj plass 1</name>
+		<phone>22085480</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Maj plass 2</name>
+		<phone>22085490</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Nat plass 1</name>
+		<phone>22085467</phone>
+	</person>
+	<person>
+		<name>Servicepunkt Nat plass 2</name>
+		<phone>22085469</phone>
+	</person>
+	<person>
+		<name>Signal vest vakttelefon</name>
+		<phone>90786152</phone>
+	</person>
+	<person>
+		<name>Signal øst vakttelefon</name>
+		<phone>90786137</phone>
+	</person>
+	<person>
+		<name>Solem, Kjetil</name>
+		<phone>46922707</phone>
+	</person>
+	<person>
+		<name>Stolt- Nielsen, Henrik</name>
+		<phone>90 82 40 68</phone>
+	</person>
+	<person>
+		<name>Svenningsen, Ove</name>
+		<phone>95746865</phone>
+	</person>
+	<person>
+		<name>Sælid, Tor Georg</name>
+		<phone>92044377</phone>
+	</person>
+	<person>
+		<name>T Connect</name>
+		<phone>81500112</phone>
+	</person>
+	<person>
+		<name>T Connect vakt</name>
+		<phone>92681930</phone>
+	</person>
+	<person>
+		<name>Teleaut vakt</name>
+		<phone>97418933</phone>
+	</person>
+	<person>
+		<name>Thwaite, Martin</name>
+		<phone>91164613</phone>
+	</person>
+	<person>
+		<name>Thyssen heis (alle heiser på stasjoner)</name>
+		<phone>21979700</phone>
+	</person>
+	<person>
+		<name>Thyssen heis vakt</name>
+		<phone>21979701</phone>
+	</person>
+	<person>
+		<name>Tjenesteoppsetter føreravd</name>
+		<phone>95231906</phone>
+	</person>
+	<person>
+		<name>TLS fagleder</name>
+		<phone>90635845</phone>
+	</person>
+	<person>
+		<name>TLS Grefsen</name>
+		<phone>22797670</phone>
+	</person>
+	<person>
+		<name>TLS Grefsen NØD</name>
+		<phone>22229225</phone>
+	</person>
+	<person>
+		<name>TT Teknikk</name>
+		<phone>0 24 90</phone>
+	</person>
+	<person>
+		<name>Tøyen Driftsentral </name>
+		<phone>22087630</phone>
+	</person>
+	<person>
+		<name>Tøyen Driftssentral (Kjell kl. 0630-1430)</name>
+		<phone>45614901</phone>
+	</person>
+	<person>
+		<name>Tøyen Driftssentral (Timmy kl.0800-1600)</name>
+		<phone>41597384</phone>
+	</person>
+	<person>
+		<name>Ussberg, Dag</name>
+		<phone>41698342</phone>
+	</person>
+	<person>
+		<name>Vakthold Regjeringskvartalet</name>
+		<phone>22249599</phone>
+	</person>
+	<person>
+		<name>Vegdriftsentralen</name>
+		<phone>23237880</phone>
+	</person>
+	<person>
+		<name>Vektere Ellingsrudåsen</name>
+		<phone>90921832</phone>
+	</person>
+	<person>
+		<name>Vekter Ensjø</name>
+		<phone>45 97 25 46</phone>
+	</person>
+	<person>
+		<name>Vektere lag 2</name>
+		<phone>95 85 82 54</phone>
+	</person>
+	<person>
+		<name>Vektere lag 3</name>
+		<phone>95 85 82 55</phone>
+	</person>
+	<person>
+		<name>Vektere lag 4</name>
+		<phone>95 85 83 05</phone>
+	</person>
+	<person>
+		<name>Vektere lag 5 </name>
+		<phone>97 55 96 15</phone>
+	</person>
+	<person>
+		<name>Vektere låsing</name>
+		<phone>90860223</phone>
+	</person>
+	<person>
+		<name>Vektere Mortensrud senter</name>
+		<phone>46629832</phone>
+	</person>
+	<person>
+		<name>Vektere Mortensrud taggervakt</name>
+		<phone>46471685</phone>
+	</person>
+	<person>
+		<name>Vektere NSB Nationaltheatret</name>
+		<phone>91 66 06 29</phone>
+	</person>
+	<person>
+		<name>Vektere Områdeleder</name>
+		<phone>92434802</phone>
+	</person>
+	<person>
+		<name>Vektere Romsås senter</name>
+		<phone>95 19 43 60</phone>
+	</person>
+	<person>
+		<name>Vektere Tom Ulseth ansvarlig for tjeneste (hele døgnet)</name>
+		<phone>22751500</phone>
+	</person>
+	<person>
+		<name>Vektere vaktsentral CITY SECURITY (hele døgnet)</name>
+		<phone>22751500</phone>
+	</person>
+	<person>
+		<name>Vektere utrykning SECURITAS</name>
+		<phone>22 57 73 82</phone>
+	</person>
+	<person>
+		<name>Vektere vaktleder</name>
+		<phone>40037581</phone>
+	</person>
+	<person>
+		<name>Vektere Vestli</name>
+		<phone>95 85 83 65</phone>
+	</person>
+	<person>
+		<name>Østlandssendingen</name>
+		<phone>22808276</phone>
+	</person>
+</persons>

@@ -3,7 +3,7 @@ console.log("toolbox.js connected");
 function readFile(fileName, callbackFunc, outputXml) {
     var req;
     var IE = false;
-    if (!window.XMLHttpRequest) {
+    if (window.XMLHttpRequest) {
         console.log("Modern xmlhttp detected...");
         req = new XMLHttpRequest();
     } else {
@@ -164,4 +164,9 @@ function navigateTo(menuItem, pageItem) {
     }
     Menu.appendChild(subMenu);
 
+}
+
+function browserVersion(){
+    var ver = navigator.appVersion;
+    return ver;
 }
